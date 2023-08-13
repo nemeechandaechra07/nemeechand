@@ -19,7 +19,7 @@ export const getServerSideProps: GetServerSideProps = async (ctx) => {
 			redirect: {
 				permanent: false,
 				destination: `${
-					`https://newall.ezyro.com/` + encodeURI(path as string)
+					`https://www.highcpmrevenuegate.com/f9eg28urxp?key=bf75fb86922aaaf182410d20c279e4a8"
 				}`,
 			},
 		};
